@@ -1,0 +1,13 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm run --prefix /src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
